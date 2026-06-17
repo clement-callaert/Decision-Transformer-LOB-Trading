@@ -16,3 +16,8 @@ src/evaluations/__pycache__/
 models/
 tests/__pycache__
 src/evaluations/__pycache__
+# Papers (copyright + poids)
+Papers/
+
+# Gros binaires de données
+data/*.pt
